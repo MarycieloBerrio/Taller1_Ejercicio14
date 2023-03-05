@@ -17,8 +17,8 @@ public class Ejercicio14 {
        cubo = Math.pow(X, 3);
        cuadrado = Math.pow(X, 2);
        
-        System.out.println("El cubo de " + X + " es " + cubo);
-        System.out.println("El cuadrado de " + X + " es " + cuadrado);
+       System.out.println("El cubo de " + X + " es " + cubo);
+       System.out.println("El cuadrado de " + X + " es " + cuadrado);
         
     }
 }
